@@ -1,5 +1,110 @@
 {
-  "movies":[],
+  "movies": [
+    {
+      "original_name": "Game Shakers",
+      "id": 64264,
+      "media_type": "tv",
+      "name": "Game Shakers",
+      "vote_count": 14,
+      "vote_average": 5.68,
+      "poster_path": "/84BvYikLEFvwKoZk4FIrRd5YtGH.jpg",
+      "first_air_date": "2015-09-12",
+      "popularity": 8.123,
+      "genre_ids": [
+        35
+      ],
+      "original_language": "en",
+      "backdrop_path": "/qQoKJoJnKdWCBocQPc6Vqq2DIGL.jpg",
+      "overview": "A live-action sitcom about two 12-year-old girls who start a multi-million-dollar gaming company and take on rap superstar Double G as a business partner.",
+      "origin_country": [
+        "US"
+      ],
+      "_id": 1
+    },
+    {
+      "vote_average": 4.9,
+      "vote_count": 42,
+      "id": 179053,
+      "video": false,
+      "media_type": "movie",
+      "title": "App",
+      "popularity": 2.41,
+      "poster_path": "/6UW33kAfW7O3M4uaMwMH1OpW0U8.jpg",
+      "original_language": "nl",
+      "original_title": "App",
+      "genre_ids": [
+        53
+      ],
+      "backdrop_path": "/1vzdE6LD1GRGAK1ouFhSG31xAbf.jpg",
+      "adult": false,
+      "overview": "A young psychology student is drawn into the dark and fearful world of a diabolic and mysterious App that starts to terrorize her, distributing compromising photographs, videos and text messages about herself and delves deeper and deeper into her personal life, flawlessly exposing all of her deepest secrets.",
+      "release_date": "2013-04-03",
+      "_id": 2
+    },
+    {
+      "original_name": "Peep Show",
+      "id": 815,
+      "media_type": "tv",
+      "name": "Peep Show",
+      "vote_count": 121,
+      "vote_average": 8.24,
+      "poster_path": "/pqrGyLYS5WIsLXwCuxc46sOP50F.jpg",
+      "first_air_date": "2003-09-19",
+      "popularity": 14.141,
+      "genre_ids": [
+        35
+      ],
+      "original_language": "en",
+      "backdrop_path": "/xoWBzIxfza235mOkvXt40uZSbqS.jpg",
+      "overview": "Peep Show is an award-winning British sitcom starring David Mitchell and Robert Webb. The television programme is written by Jesse Armstrong and Sam Bain, with additional material by Mitchell and Webb amongst others. It has been broadcast on Channel 4 since 2003. The show's eighth series makes it the longest-returning comedy in Channel 4 history. Stylistically, the show uses point of view shots with the thoughts of main characters Mark and Jeremy audible as voiceovers.\n\nPeep Show follows the lives of two men from their twenties to thirties, Mark Corrigan, who has steady employment for most of the series, and Jeremy \"Jez\" Usbourne, an unemployed would-be musician. The pair met at the fictional Dartmouth University, and now share a flat in Croydon, South London. Mark is initially a loan manager at the fictional JLB Credit, later becoming a waiter, and then a bathroom supplies salesman. He is financially secure, but awkward and socially inept, with a pessimistic and cynical attitude. Jeremy, having split up with his girlfriend Big Suze prior to the first episode, now lives in Mark's spare room. He usually has a much more optimistic and energetic outlook on the world than Mark, yet his self-proclaimed talent as a musician has yet to be recognised, and he is not as popular or attractive as he would like to think himself, although he is more successful with the opposite sex than Mark.",
+      "origin_country": [
+        "GB"
+      ],
+      "_id": 3
+    },
+    {
+      "original_name": "犬とハサミは使いよう",
+      "id": 49464,
+      "media_type": "tv",
+      "name": "Dog & Scissors",
+      "vote_count": 10,
+      "vote_average": 5.4,
+      "poster_path": "/6f7xiHXiqsSNByg9ZeNpOKPA5YE.jpg",
+      "first_air_date": "2013-07-01",
+      "popularity": 83.886,
+      "genre_ids": [
+        16,
+        35
+      ],
+      "original_language": "ja",
+      "backdrop_path": "/rQEpHHLg45QK4jBuIkI70fG62x3.jpg",
+      "overview": "A nonsense comical mystery. Harumi Kazuhito is a high school boy who loves books and is a fan of novelist Natsuno Kirihime. One day, he finds Kirihime writing at a cafe, about to be shot by a robber. He protects her from the attack but is killed instead. Through the supernatural power of a book-worm, he is reincarnated as a dachshund dog. Kazuhito (as a dog) writhes in a painful bookless life, when a sadistic woman carrying a pair of scissors offers him help. She is Kirihime herself.",
+      "origin_country": [
+        "JP"
+      ],
+      "_id": 4
+    },
+    {
+      "vote_average": 6.4,
+      "vote_count": 49,
+      "id": 2525,
+      "video": false,
+      "media_type": "movie",
+      "title": "The Bible: In the Beginning...",
+      "popularity": 7.53,
+      "poster_path": "/5Lp3sMtwMxcc2Azm4DDVyxWpHvr.jpg",
+      "original_language": "en",
+      "original_title": "The Bible: In the Beginning...",
+      "genre_ids": [
+        18
+      ],
+      "backdrop_path": "/kNYhdeLZPeeVLmwtw1iqSCO1zxe.jpg",
+      "adult": false,
+      "overview": "Extravagant production of the first part of the book of Genesis. Covers Adam and Eve, Noah and the Flood and Abraham and Isaac.",
+      "release_date": "1966-09-28",
+      "_id": 5
+    }
+  ],
   "posts": [
     {
       "id": 1,
